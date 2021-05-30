@@ -14,7 +14,7 @@ import CardContent from "@material-ui/core/CardContent";
 
 import CallToAction from "../src/ui/CallToAction";
 
-import animationData from "../src/animations/landingAnimation/data";
+import animationData from "../src/animations/landinganimation/data";
 
 import {
   LazyLoadImage,

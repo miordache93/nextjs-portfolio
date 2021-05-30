@@ -132,7 +132,7 @@ function Services(props) {
               </Button>
             </Grid>
             <Grid item style={{marginRight: matchesSM ? 0 : '5em' }}>
-              <img width="250em" className={classes.icon} alt="website icon" src="/assets/websitesIcon.svg" />
+              <img width="250em" className={classes.icon} alt="website icon" src="/assets/websiteIcon.svg" />
             </Grid>
         </Grid>
       </Grid>
